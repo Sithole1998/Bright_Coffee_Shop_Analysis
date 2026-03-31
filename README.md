@@ -25,13 +25,13 @@ Miro, Microsoft Excel, Databricks, Canva
 
 Key insights
 ---------------------------------------------
-Core products drive the business: Coffee (38.63%) and Tea (28.11%) together generate over 66% of total revenue and also dominate product sales volume, confirming they are the primary revenue drivers.
-Strong supporting categories: Bakery (11.78%) and Drinking Chocolate (10.36%) play an important role as complementary products, indicating strong opportunities for bundling and upselling.
-Low-performing product categories: Items such as Branded, Packaged Chocolate, Loose Tea, Flavours, and Coffee Beans contribute less than 6% each, highlighting opportunities for promotion, repositioning, or potential rationalization.
-Consistent performance across store locations: Revenue is evenly distributed across Astoria (33.23%), Hell’s Kitchen (33.84%), and Lower Manhattan (32.92%), suggesting standardized customer behavior and successful store operations.
-Weekday-driven revenue: 72.06% of total revenue is generated on weekdays, compared to only 27.94% on weekends, indicating strong reliance on weekday (commuter/workday) traffic.
-Untapped weekend potential: Lower weekend contribution suggests an opportunity to increase revenue through targeted promotions, events, or experience-driven offerings.
-High product concentration: A large portion of sales is concentrated in a few categories, which presents both a strength (clear focus) and a risk (dependency on limited products).
+- Core products drive the business: Coffee (38.63%) and Tea (28.11%) together generate over 66% of total revenue and also dominate product sales volume, confirming they are the primary revenue drivers.
+- Strong supporting categories: Bakery (11.78%) and Drinking Chocolate (10.36%) play an important role as complementary products, indicating strong opportunities for bundling and upselling.
+- Low-performing product categories: Items such as Branded, Packaged Chocolate, Loose Tea, Flavours, and Coffee Beans contribute less than 6% each, highlighting opportunities for promotion, repositioning, or potential rationalization.
+- Consistent performance across store locations: Revenue is evenly distributed across Astoria (33.23%), Hell’s Kitchen (33.84%), and Lower Manhattan (32.92%), suggesting standardized customer behavior and successful store operations.
+- Weekday-driven revenue: 72.06% of total revenue is generated on weekdays, compared to only 27.94% on weekends, indicating strong reliance on weekday (commuter/workday) traffic.
+- Untapped weekend potential: Lower weekend contribution suggests an opportunity to increase revenue through targeted promotions, events, or experience-driven offerings.
+- High product concentration: A large portion of sales is concentrated in a few categories, which presents both a strength (clear focus) and a risk (dependency on limited products).
 
 
 
