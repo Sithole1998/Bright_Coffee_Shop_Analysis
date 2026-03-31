@@ -24,6 +24,7 @@ Tools used in the project:
 Miro, Microsoft Excel, Databricks, Canva
 
 Key insights
+---------------------------------------------
 Core products drive the business: Coffee (38.63%) and Tea (28.11%) together generate over 66% of total revenue and also dominate product sales volume, confirming they are the primary revenue drivers.
 Strong supporting categories: Bakery (11.78%) and Drinking Chocolate (10.36%) play an important role as complementary products, indicating strong opportunities for bundling and upselling.
 Low-performing product categories: Items such as Branded, Packaged Chocolate, Loose Tea, Flavours, and Coffee Beans contribute less than 6% each, highlighting opportunities for promotion, repositioning, or potential rationalization.
