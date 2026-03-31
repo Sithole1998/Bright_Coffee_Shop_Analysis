@@ -5,11 +5,11 @@ Project Overview
 -------------------------------------------------------------------------------------------------
 This project analyzes sales data from a multi-location coffee shop to uncover actionable insights aimed at driving revenue growth and improving product strategy.
 
-Aim of the Project
+Aim
 ------------------------------------------------------
 The aim of this project is to analyze coffee shop sales data to identify key drivers of revenue and optimize product performance, enabling data-driven decisions that enhance profitability, customer experience, and business growth. It focuses on understanding which products, time periods, and store locations contribute most to sales, while uncovering opportunities to increase revenue through product improvements, targeted promotions, and operational strategies.
 
-Objectives of the study are to: 
+Objectives: 
 -------------------------------------------------------------
 - Analyze revenue performance across product categories to identify top- and low-performing items
 - Evaluate sales trends by time (peak hours, weekdays vs weekends) to understand customer behavior
