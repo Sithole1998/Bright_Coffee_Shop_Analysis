@@ -21,7 +21,7 @@ Objectives:
 
 Tools used in the project: 
 ---------------------------------------
-Miro, Microsoft Excel, Databricks, Canva
+Miro, Microsoft Excel, Databricks, Canva, google looker, Power BI
 
 Key insights
 ---------------------------------------------
